@@ -16,7 +16,6 @@
   flex-direction: column;
   position: relative;
 }
-
 .card--image {
   width: 100%;
   border-radius: 9px;
